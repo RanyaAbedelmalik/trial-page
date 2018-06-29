@@ -1,0 +1,14 @@
+h1 {
+    text-align: center;
+    color: black
+    background-color: red
+    border: 1px solid pink;
+}
+
+p { 
+    color: orange;
+}
+
+p, li {
+    text-decoration: underline;
+}
